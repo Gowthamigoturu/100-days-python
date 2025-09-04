@@ -1,0 +1,14 @@
+name="Python"
+age=23
+height=4.6
+cmplx=3-7j
+is_student='0'
+email="asfgg@g1345"
+lst=['21','34','python']
+print(name)
+print(age)
+print(height)
+print(cmplx)
+print(is_student)
+print(email)
+print(lst)
